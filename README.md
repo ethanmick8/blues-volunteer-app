@@ -1,4 +1,4 @@
-# VMS Blues Volunteer App
+# VMS Blues App
 
 This is a full stack web application that includes a Node.js/Express backend,  
 a React frontend, and a PostgreSQL database using Sequelize as an ORM. The app  
